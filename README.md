@@ -1,2 +1,2 @@
-# -30DaysOfCP-Challenge-for-Women-CodeChef
+# 30DaysOfCP-Challenge-for-Women-CodeChef
 My Python Codings
